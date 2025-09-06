@@ -39,10 +39,6 @@
 
 ---
 
-## HTTP
-
----
-
 #### What is HTTP?
 
 <br>
