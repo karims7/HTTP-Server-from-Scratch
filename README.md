@@ -6,10 +6,6 @@
 
 ---
 
-## Client/Server Architecture
-
----
-
 #### Client/Server Architecture
 
 <br>
